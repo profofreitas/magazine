@@ -2,6 +2,10 @@
 
 # O que é Espaço-tempo?
 
+Albert Einstein viu o que estava por vir em November 1916. Um ano antes ele formulou sua teoria geral da relatividade, na qual postulava que a gravidade não é uma força que propaga através do espaço mas uma característica do próprio espaço-tempo. Quando você joga uma bola bem alto no ar, ela arca de volta para o chão porque a Terra distorce o espaço-tempo à sua volta, de modo que os caminhos da bola e do chão se cruzam novamente. Em uma carta a um amigo, Einstein agraciou o desafio de unir a relatividade geral com sua outra inspiração, a nascente teoria da mecanica quantica. Aquilo não distorce meramente o espaço mas dismantle ele. Matematicamente ele dificilmente sabia por onde começar. "O quanto que eu jé me plagued desse jeito!" ele escreveu.
+
+Einstein nunca foi tão longe. Mesmo hoje existem quase tantas contending ideias para uma teoria quantica para a gravidade quanto cientistas trabalhando no assunto. As dispustas obscureceram uma importante verdade: as abordagens concorrentes dizem que o espaço é derivado de algo mais profundo - uma ideia que irrompe com 2.500 anos de compreensão filosófica e científica.
+
 ## ABAIXO DO BURACO NEGRO
 Um ímã de cozinha demonstra nitidamente o problema que os físicos encaram. Ele pode agarrar um clip de papel contra a força da gravidade de toda a Terra. A gravidade é mais fraca que o magnetismo ou que as forças elétricas ou nucleares. Quaisquer que sejam os efeitos quânticos, são ainda mais fracos. A única evidência tangível de que esses processos ocorrem é o padrão salpicado da matéria no universo primitivo - pensado em ser causado, em parte, por flutuações quanticas do campo gravitacional.
 
