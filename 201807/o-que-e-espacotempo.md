@@ -1,6 +1,10 @@
 [<< Voltar](https://github.com/profofreitas/magazine/blob/master/201807.md)
 
-# O que é Espaço-tempo?
+# O que é Espaço-tempo
+
+Os Físicos acreditam que em escalas muito pequenas o espaço emerge do quanta. Como podem ser esses blocos de construção?
+
+As pessoas sempre tomaram como certo. É epanas vazio, afinal de contas - um pano de fundo para todo o resto. O tempo, da mesma forma, faz tique-taque incessantemente. Mas, se os físicos tem aprendido alguma coisa do longo trabalho duro para unificar suas teorias, é que o espaço e o tempo formam um sistema de tal desconsertante complexidade que pode desafiar nossos mais ardentes esforços para compreender.
 
 Albert Einstein viu o que estava por vir em November 1916. Um ano antes ele formulou sua teoria geral da relatividade, na qual postulava que a gravidade não é uma força que propaga através do espaço mas uma característica do próprio espaço-tempo. Quando você joga uma bola bem alto no ar, ela arca de volta para o chão porque a Terra distorce o espaço-tempo à sua volta, de modo que os caminhos da bola e do chão se cruzam novamente. Em uma carta a um amigo, Einstein agraciou o desafio de unir a relatividade geral com sua outra inspiração, a nascente teoria da mecanica quantica. Aquilo não distorce meramente o espaço mas dismantle ele. Matematicamente ele dificilmente sabia por onde começar. "O quanto que eu jé me plagued desse jeito!" ele escreveu.
 
